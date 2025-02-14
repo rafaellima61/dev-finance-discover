@@ -18,7 +18,7 @@ html {
 }
 
 body {
-    background: #f0f2f5;
+    background: #FCFAEE;
     font-family:'Poppins', sans-serif
 }
 
@@ -103,7 +103,7 @@ button:hover {
 
 /* Header ===================== */
 header {
-    background: #2D4A22;
+    background: #B8001F;
     padding: 2rem 0 10rem;
     text-align: center;
 }
@@ -164,7 +164,7 @@ header {
 #data-table {
     width: 100%;
     border-spacing: 0 0.5rem;
-    color: #969cb3;
+    color: #384B70;
 }
 
 table thead tr th:first-child, 
@@ -288,7 +288,7 @@ input {
 footer {
     text-align: center;
     padding: 4rem 0 2rem;
-    color: var(--dark-blue);
+    color: #384B70;
 
     opacity: 0.6;
 }
